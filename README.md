@@ -1,8 +1,8 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 Hi, I’m Wills
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning everything :laughing:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
      - :office: [LinkedIn](https://www.linkedin.com/in/wills-lai-43198892/)
