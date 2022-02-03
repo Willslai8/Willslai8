@@ -4,7 +4,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently finding new job opportunities :laughing:
 - 💞️ I’m looking to collaborate more to Open source projects
-- :tada: Fun fact: I love to play guitar and reading
+- :tada: Fun fact: I love to play guitar and learn somethings new
 - 📫 How to reach me:
      - :office: [LinkedIn](https://www.linkedin.com/in/wills-lai-43198892/)
      - 📧: wai0826@hotmail.com
